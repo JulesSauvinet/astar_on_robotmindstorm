@@ -1,4 +1,4 @@
-package tp2;
+package all;
 
 /**
  * Classe AZIMUTH Valeur de l'azimut pris dans une liste énumérée

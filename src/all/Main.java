@@ -1,4 +1,4 @@
-package tp2;
+package all;
 
 import java.io.IOException;
 
